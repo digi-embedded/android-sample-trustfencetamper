@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Trustfence Tamper Sample</string>
+    <string name="title_interface">Tamper interface</string>
+    <string name="title_event">Tamper event</string>
+    <string name="description_interface">Select the tamper interface to work with.</string>
+    <string name="description_event">Monitor the current tamper interface event status and handle it.</string>
+    <string name="interface_select">Tamper interface: </string>
+    <string name="clear_event">Clear Event</string>
+    <string name="ack_event">Acknowledge Event</string>
+    <string name="refresh">Refresh</string>
+    <string name="register">Register listener</string>
+    <string name="unregister">Remove listener</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="interface_information">Interface Information</string>
+    <string name="listener">Event Listener</string>
+    <string name="interface_status">Interface status:</string>
+    <string name="listener_status">Listener status:</string>
+    <string name="event_status">Event status:</string>
+    <string name="event_triggered">EVENT TRIGGERED</string>
+    <string name="event_acknowledged">EVENT ACKNOWLEDGED</string>
+    <string name="event_none">NO EVENT</string>
+    <string name="event_waiting">WAITING FOR EVENT</string>
+    <string name="registered">Registered</string>
+    <string name="not_registered">Not registered</string>
+</resources>
