@@ -1,8 +1,8 @@
-Trustfence Tamper Sample Application
+TrustFence Tamper Sample Application
 ====================================
 
-This application demonstrates the usage of the Trustfence API to detect and
-interact with tamper events in the trustfence tamper interfaces.
+This application demonstrates the usage of the TrustFence API to detect and
+interact with tamper events in the TrustFence tamper interfaces.
 
 Demo requirements
 -----------------
